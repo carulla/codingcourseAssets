@@ -1,0 +1,2660 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1440" width="1024" height="1440">
+    <g id="r0_c0">
+        <!-- Ground Shadow -->
+        <ellipse cx="64" cy="140" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(56, 96)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(72, 96)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(45, 62) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M46,58 C46,50 82,50 82,58 L84,100 L44,100 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M54,56 L64,96 L74,56" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="45" y="92" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        <circle cx="72" cy="72" r="4.5" fill="#fbbf24" stroke="#ffffff" stroke-width="1"/>
+        <!-- Front Arm -->
+        <g transform="translate(83, 62) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="64" cy="34" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Hair Front/Side -->
+               <path d="M43,31 C42,6 86,6 85,31 C74,20 54,20 43,31 Z" fill="#475569" stroke="#0f172a" stroke-width="1.8"/>
+               <!-- Eyes -->
+               <ellipse cx="58" cy="34" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <ellipse cx="70" cy="34" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <circle cx="58" cy="34" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/><circle cx="70" cy="34" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/>
+               <!-- Mouth (Animated when talking) -->
+               <path d="M60,43 Q64,47 68,43" fill="none" stroke="#0f172a" stroke-width="1.8" stroke-linecap="round"/>
+        
+      </g><g id="r0_c1">
+        <!-- Ground Shadow -->
+        <ellipse cx="192" cy="140" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(184, 94)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(200, 94)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(173, 60) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M174,56 C174,48 210,48 210,56 L212,98 L172,98 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M182,54 L192,94 L202,54" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="173" y="90" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        <circle cx="200" cy="70" r="4.5" fill="#fbbf24" stroke="#ffffff" stroke-width="1"/>
+        <!-- Front Arm -->
+        <g transform="translate(211, 60) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="192" cy="32" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Hair Front/Side -->
+               <path d="M171,29 C170,4 214,4 213,29 C202,18 182,18 171,29 Z" fill="#475569" stroke="#0f172a" stroke-width="1.8"/>
+               <!-- Eyes -->
+               <ellipse cx="186" cy="32" rx="2.6" ry="0.8" fill="#0f172a"/>
+               <ellipse cx="198" cy="32" rx="2.6" ry="0.8" fill="#0f172a"/>
+               <circle cx="186" cy="32" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/><circle cx="198" cy="32" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/>
+               <!-- Mouth (Animated when talking) -->
+               <path d="M188,41 Q192,45 196,41" fill="none" stroke="#0f172a" stroke-width="1.8" stroke-linecap="round"/>
+        
+      </g><g id="r0_c2">
+        <!-- Ground Shadow -->
+        <ellipse cx="320" cy="140" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(312, 84)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(328, 96)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(301, 58) rotate(22)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M302,54 C302,46 338,46 338,54 L340,96 L300,96 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M310,52 L320,92 L330,52" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="301" y="88" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        <circle cx="328" cy="68" r="4.5" fill="#fbbf24" stroke="#ffffff" stroke-width="1"/>
+        <!-- Front Arm -->
+        <g transform="translate(339, 58) rotate(-22)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="320" cy="30" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Hair Front/Side -->
+               <path d="M299,27 C298,2 342,2 341,27 C330,16 310,16 299,27 Z" fill="#475569" stroke="#0f172a" stroke-width="1.8"/>
+               <!-- Eyes -->
+               <ellipse cx="314" cy="30" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <ellipse cx="326" cy="30" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <circle cx="314" cy="30" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/><circle cx="326" cy="30" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/>
+               <!-- Mouth (Animated when talking) -->
+               <path d="M316,39 Q320,43 324,39" fill="none" stroke="#0f172a" stroke-width="1.8" stroke-linecap="round"/>
+        
+      </g><g id="r0_c3">
+        <!-- Ground Shadow -->
+        <ellipse cx="448" cy="140" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(440, 96)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(456, 96)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(429, 62) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M430,58 C430,50 466,50 466,58 L468,100 L428,100 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M438,56 L448,96 L458,56" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="429" y="92" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        <circle cx="456" cy="72" r="4.5" fill="#fbbf24" stroke="#ffffff" stroke-width="1"/>
+        <!-- Front Arm -->
+        <g transform="translate(467, 62) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="448" cy="34" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Hair Front/Side -->
+               <path d="M427,31 C426,6 470,6 469,31 C458,20 438,20 427,31 Z" fill="#475569" stroke="#0f172a" stroke-width="1.8"/>
+               <!-- Eyes -->
+               <ellipse cx="442" cy="34" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <ellipse cx="454" cy="34" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <circle cx="442" cy="34" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/><circle cx="454" cy="34" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/>
+               <!-- Mouth (Animated when talking) -->
+               <path d="M444,43 Q448,47 452,43" fill="none" stroke="#0f172a" stroke-width="1.8" stroke-linecap="round"/>
+        
+      </g><g id="r0_c4">
+        <!-- Ground Shadow -->
+        <ellipse cx="576" cy="140" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(568, 96)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(584, 84)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(557, 58) rotate(-22)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M558,54 C558,46 594,46 594,54 L596,96 L556,96 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M566,52 L576,92 L586,52" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="557" y="88" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        <circle cx="584" cy="68" r="4.5" fill="#fbbf24" stroke="#ffffff" stroke-width="1"/>
+        <!-- Front Arm -->
+        <g transform="translate(595, 58) rotate(22)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="576" cy="30" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Hair Front/Side -->
+               <path d="M555,27 C554,2 598,2 597,27 C586,16 566,16 555,27 Z" fill="#475569" stroke="#0f172a" stroke-width="1.8"/>
+               <!-- Eyes -->
+               <ellipse cx="570" cy="30" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <ellipse cx="582" cy="30" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <circle cx="570" cy="30" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/><circle cx="582" cy="30" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/>
+               <!-- Mouth (Animated when talking) -->
+               <path d="M572,39 Q576,43 580,39" fill="none" stroke="#0f172a" stroke-width="1.8" stroke-linecap="round"/>
+        
+      </g><g id="r0_c5">
+        <!-- Ground Shadow -->
+        <ellipse cx="704" cy="140" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(696, 96)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(712, 96)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(685, 62) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M686,58 C686,50 722,50 722,58 L724,100 L684,100 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M694,56 L704,96 L714,56" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="685" y="92" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        <circle cx="712" cy="72" r="4.5" fill="#fbbf24" stroke="#ffffff" stroke-width="1"/>
+        <!-- Front Arm -->
+        <g transform="translate(723, 62) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="704" cy="34" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Hair Front/Side -->
+               <path d="M683,31 C682,6 726,6 725,31 C714,20 694,20 683,31 Z" fill="#475569" stroke="#0f172a" stroke-width="1.8"/>
+               <!-- Eyes -->
+               <ellipse cx="698" cy="34" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <ellipse cx="710" cy="34" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <circle cx="698" cy="34" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/><circle cx="710" cy="34" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/>
+               <!-- Mouth (Animated when talking) -->
+               <path d="M700,43 Q704,47 708,43" fill="none" stroke="#0f172a" stroke-width="1.8" stroke-linecap="round"/>
+        
+      </g><g id="r0_c6">
+        <!-- Ground Shadow -->
+        <ellipse cx="832" cy="140" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(824, 96)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(840, 96)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(813, 62) rotate(-28)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M814,58 C814,50 850,50 850,58 L852,100 L812,100 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M822,56 L832,96 L842,56" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="813" y="92" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        <circle cx="840" cy="72" r="4.5" fill="#fbbf24" stroke="#ffffff" stroke-width="1"/>
+        <!-- Front Arm -->
+        <g transform="translate(851, 62) rotate(18)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="832" cy="34" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Hair Front/Side -->
+               <path d="M811,31 C810,6 854,6 853,31 C842,20 822,20 811,31 Z" fill="#475569" stroke="#0f172a" stroke-width="1.8"/>
+               <!-- Eyes -->
+               <ellipse cx="826" cy="34" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <ellipse cx="838" cy="34" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <circle cx="826" cy="34" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/><circle cx="838" cy="34" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/>
+               <!-- Mouth (Animated when talking) -->
+               <ellipse cx="832" cy="44" rx="4.5" ry="3.2" fill="#991b1b" stroke="#0f172a" stroke-width="1.2"/>
+        
+      </g><g id="r0_c7">
+        <!-- Ground Shadow -->
+        <ellipse cx="960" cy="140" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(952, 96)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(968, 96)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(941, 62) rotate(-12)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M942,58 C942,50 978,50 978,58 L980,100 L940,100 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M950,56 L960,96 L970,56" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="941" y="92" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        <circle cx="968" cy="72" r="4.5" fill="#fbbf24" stroke="#ffffff" stroke-width="1"/>
+        <!-- Front Arm -->
+        <g transform="translate(979, 62) rotate(34)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="960" cy="34" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Hair Front/Side -->
+               <path d="M939,31 C938,6 982,6 981,31 C970,20 950,20 939,31 Z" fill="#475569" stroke="#0f172a" stroke-width="1.8"/>
+               <!-- Eyes -->
+               <ellipse cx="954" cy="34" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <ellipse cx="966" cy="34" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <circle cx="954" cy="34" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/><circle cx="966" cy="34" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/>
+               <!-- Mouth (Animated when talking) -->
+               <path d="M956,43 Q960,47 964,43" fill="none" stroke="#0f172a" stroke-width="1.8" stroke-linecap="round"/>
+        
+      </g><g id="r1_c0">
+        <!-- Ground Shadow -->
+        <ellipse cx="64" cy="300" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(56, 256)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(72, 256)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(45, 222) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M46,218 C46,210 82,210 82,218 L84,260 L44,260 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M52,216 L61.5,256 L72,216" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="45" y="252" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        <circle cx="70.5" cy="232" r="4.5" fill="#fbbf24" stroke="#ffffff" stroke-width="1"/>
+        <!-- Front Arm -->
+        <g transform="translate(83, 222) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="62.75" cy="194" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Hair Front/Side -->
+               <path d="M42,191 C42,166 86,166 84,191 C74,180 54,180 42,191 Z" fill="#475569" stroke="#0f172a" stroke-width="1.8"/>
+               <!-- Eyes -->
+               <ellipse cx="53" cy="194" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <ellipse cx="65" cy="194" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <circle cx="53" cy="194" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/><circle cx="65" cy="194" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/>
+               <!-- Mouth (Animated when talking) -->
+               <path d="M55,203 Q59,207 63,203" fill="none" stroke="#0f172a" stroke-width="1.8" stroke-linecap="round"/>
+        
+      </g><g id="r1_c1">
+        <!-- Ground Shadow -->
+        <ellipse cx="192" cy="300" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(184, 254)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(200, 254)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(173, 220) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M174,216 C174,208 210,208 210,216 L212,258 L172,258 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M180,214 L189.5,254 L200,214" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="173" y="250" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        <circle cx="198.5" cy="230" r="4.5" fill="#fbbf24" stroke="#ffffff" stroke-width="1"/>
+        <!-- Front Arm -->
+        <g transform="translate(211, 220) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="190.75" cy="192" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Hair Front/Side -->
+               <path d="M170,189 C170,164 214,164 212,189 C202,178 182,178 170,189 Z" fill="#475569" stroke="#0f172a" stroke-width="1.8"/>
+               <!-- Eyes -->
+               <ellipse cx="181" cy="192" rx="2.6" ry="0.8" fill="#0f172a"/>
+               <ellipse cx="193" cy="192" rx="2.6" ry="0.8" fill="#0f172a"/>
+               <circle cx="181" cy="192" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/><circle cx="193" cy="192" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/>
+               <!-- Mouth (Animated when talking) -->
+               <path d="M183,201 Q187,205 191,201" fill="none" stroke="#0f172a" stroke-width="1.8" stroke-linecap="round"/>
+        
+      </g><g id="r1_c2">
+        <!-- Ground Shadow -->
+        <ellipse cx="320" cy="300" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(309.5, 244)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(330.5, 256)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(301, 218) rotate(22)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M302,214 C302,206 338,206 338,214 L340,256 L300,256 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M308,212 L317.5,252 L328,212" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="301" y="248" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        <circle cx="326.5" cy="228" r="4.5" fill="#fbbf24" stroke="#ffffff" stroke-width="1"/>
+        <!-- Front Arm -->
+        <g transform="translate(339, 218) rotate(-22)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="318.75" cy="190" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Hair Front/Side -->
+               <path d="M298,187 C298,162 342,162 340,187 C330,176 310,176 298,187 Z" fill="#475569" stroke="#0f172a" stroke-width="1.8"/>
+               <!-- Eyes -->
+               <ellipse cx="309" cy="190" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <ellipse cx="321" cy="190" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <circle cx="309" cy="190" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/><circle cx="321" cy="190" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/>
+               <!-- Mouth (Animated when talking) -->
+               <path d="M311,199 Q315,203 319,199" fill="none" stroke="#0f172a" stroke-width="1.8" stroke-linecap="round"/>
+        
+      </g><g id="r1_c3">
+        <!-- Ground Shadow -->
+        <ellipse cx="448" cy="300" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(440, 256)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(456, 256)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(429, 222) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M430,218 C430,210 466,210 466,218 L468,260 L428,260 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M436,216 L445.5,256 L456,216" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="429" y="252" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        <circle cx="454.5" cy="232" r="4.5" fill="#fbbf24" stroke="#ffffff" stroke-width="1"/>
+        <!-- Front Arm -->
+        <g transform="translate(467, 222) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="446.75" cy="194" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Hair Front/Side -->
+               <path d="M426,191 C426,166 470,166 468,191 C458,180 438,180 426,191 Z" fill="#475569" stroke="#0f172a" stroke-width="1.8"/>
+               <!-- Eyes -->
+               <ellipse cx="437" cy="194" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <ellipse cx="449" cy="194" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <circle cx="437" cy="194" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/><circle cx="449" cy="194" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/>
+               <!-- Mouth (Animated when talking) -->
+               <path d="M439,203 Q443,207 447,203" fill="none" stroke="#0f172a" stroke-width="1.8" stroke-linecap="round"/>
+        
+      </g><g id="r1_c4">
+        <!-- Ground Shadow -->
+        <ellipse cx="576" cy="300" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(570.5, 256)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(581.5, 244)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(557, 218) rotate(-22)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M558,214 C558,206 594,206 594,214 L596,256 L556,256 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M564,212 L573.5,252 L584,212" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="557" y="248" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        <circle cx="582.5" cy="228" r="4.5" fill="#fbbf24" stroke="#ffffff" stroke-width="1"/>
+        <!-- Front Arm -->
+        <g transform="translate(595, 218) rotate(22)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="574.75" cy="190" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Hair Front/Side -->
+               <path d="M554,187 C554,162 598,162 596,187 C586,176 566,176 554,187 Z" fill="#475569" stroke="#0f172a" stroke-width="1.8"/>
+               <!-- Eyes -->
+               <ellipse cx="565" cy="190" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <ellipse cx="577" cy="190" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <circle cx="565" cy="190" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/><circle cx="577" cy="190" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/>
+               <!-- Mouth (Animated when talking) -->
+               <path d="M567,199 Q571,203 575,199" fill="none" stroke="#0f172a" stroke-width="1.8" stroke-linecap="round"/>
+        
+      </g><g id="r1_c5">
+        <!-- Ground Shadow -->
+        <ellipse cx="704" cy="300" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(696, 256)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(712, 256)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(685, 222) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M686,218 C686,210 722,210 722,218 L724,260 L684,260 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M692,216 L701.5,256 L712,216" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="685" y="252" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        <circle cx="710.5" cy="232" r="4.5" fill="#fbbf24" stroke="#ffffff" stroke-width="1"/>
+        <!-- Front Arm -->
+        <g transform="translate(723, 222) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="702.75" cy="194" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Hair Front/Side -->
+               <path d="M682,191 C682,166 726,166 724,191 C714,180 694,180 682,191 Z" fill="#475569" stroke="#0f172a" stroke-width="1.8"/>
+               <!-- Eyes -->
+               <ellipse cx="693" cy="194" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <ellipse cx="705" cy="194" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <circle cx="693" cy="194" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/><circle cx="705" cy="194" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/>
+               <!-- Mouth (Animated when talking) -->
+               <path d="M695,203 Q699,207 703,203" fill="none" stroke="#0f172a" stroke-width="1.8" stroke-linecap="round"/>
+        
+      </g><g id="r1_c6">
+        <!-- Ground Shadow -->
+        <ellipse cx="832" cy="300" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(824, 256)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(840, 256)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(813, 222) rotate(-28)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M814,218 C814,210 850,210 850,218 L852,260 L812,260 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M820,216 L829.5,256 L840,216" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="813" y="252" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        <circle cx="838.5" cy="232" r="4.5" fill="#fbbf24" stroke="#ffffff" stroke-width="1"/>
+        <!-- Front Arm -->
+        <g transform="translate(851, 222) rotate(18)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="830.75" cy="194" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Hair Front/Side -->
+               <path d="M810,191 C810,166 854,166 852,191 C842,180 822,180 810,191 Z" fill="#475569" stroke="#0f172a" stroke-width="1.8"/>
+               <!-- Eyes -->
+               <ellipse cx="821" cy="194" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <ellipse cx="833" cy="194" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <circle cx="821" cy="194" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/><circle cx="833" cy="194" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/>
+               <!-- Mouth (Animated when talking) -->
+               <ellipse cx="827" cy="204" rx="4.5" ry="3.2" fill="#991b1b" stroke="#0f172a" stroke-width="1.2"/>
+        
+      </g><g id="r1_c7">
+        <!-- Ground Shadow -->
+        <ellipse cx="960" cy="300" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(952, 256)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(968, 256)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(941, 222) rotate(-12)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M942,218 C942,210 978,210 978,218 L980,260 L940,260 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M948,216 L957.5,256 L968,216" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="941" y="252" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        <circle cx="966.5" cy="232" r="4.5" fill="#fbbf24" stroke="#ffffff" stroke-width="1"/>
+        <!-- Front Arm -->
+        <g transform="translate(979, 222) rotate(34)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="958.75" cy="194" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Hair Front/Side -->
+               <path d="M938,191 C938,166 982,166 980,191 C970,180 950,180 938,191 Z" fill="#475569" stroke="#0f172a" stroke-width="1.8"/>
+               <!-- Eyes -->
+               <ellipse cx="949" cy="194" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <ellipse cx="961" cy="194" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <circle cx="949" cy="194" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/><circle cx="961" cy="194" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/>
+               <!-- Mouth (Animated when talking) -->
+               <path d="M951,203 Q955,207 959,203" fill="none" stroke="#0f172a" stroke-width="1.8" stroke-linecap="round"/>
+        
+      </g><g id="r2_c0">
+        <!-- Ground Shadow -->
+        <ellipse cx="64" cy="460" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        <rect x="58" y="380" width="28" height="32" rx="7" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(56, 416)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(72, 416)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(45, 382) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M46,378 C46,370 82,370 82,378 L84,420 L44,420 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M50.4,376 L59.5,416 L70.4,376" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="45" y="412" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        <circle cx="69.3" cy="392" r="4.5" fill="#fbbf24" stroke="#ffffff" stroke-width="1"/>
+        <!-- Front Arm -->
+        <g transform="translate(83, 382) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="61.75" cy="354" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Hair Front/Side -->
+               <path d="M41.2,351 C42,326 86,326 83.2,351 C74,340 54,340 41.2,351 Z" fill="#475569" stroke="#0f172a" stroke-width="1.8"/>
+               <!-- Eyes -->
+               <ellipse cx="49" cy="354" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <ellipse cx="61" cy="354" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <circle cx="49" cy="354" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/><circle cx="61" cy="354" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/>
+               <!-- Mouth (Animated when talking) -->
+               <path d="M51,363 Q55,367 59,363" fill="none" stroke="#0f172a" stroke-width="1.8" stroke-linecap="round"/>
+        
+      </g><g id="r2_c1">
+        <!-- Ground Shadow -->
+        <ellipse cx="192" cy="460" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        <rect x="186" y="378" width="28" height="32" rx="7" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(184, 414)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(200, 414)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(173, 380) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M174,376 C174,368 210,368 210,376 L212,418 L172,418 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M178.4,374 L187.5,414 L198.4,374" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="173" y="410" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        <circle cx="197.3" cy="390" r="4.5" fill="#fbbf24" stroke="#ffffff" stroke-width="1"/>
+        <!-- Front Arm -->
+        <g transform="translate(211, 380) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="189.75" cy="352" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Hair Front/Side -->
+               <path d="M169.2,349 C170,324 214,324 211.2,349 C202,338 182,338 169.2,349 Z" fill="#475569" stroke="#0f172a" stroke-width="1.8"/>
+               <!-- Eyes -->
+               <ellipse cx="177" cy="352" rx="2.6" ry="0.8" fill="#0f172a"/>
+               <ellipse cx="189" cy="352" rx="2.6" ry="0.8" fill="#0f172a"/>
+               <circle cx="177" cy="352" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/><circle cx="189" cy="352" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/>
+               <!-- Mouth (Animated when talking) -->
+               <path d="M179,361 Q183,365 187,361" fill="none" stroke="#0f172a" stroke-width="1.8" stroke-linecap="round"/>
+        
+      </g><g id="r2_c2">
+        <!-- Ground Shadow -->
+        <ellipse cx="320" cy="460" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        <rect x="314" y="376" width="28" height="32" rx="7" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(307, 404)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(333, 416)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(301, 378) rotate(22)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M302,374 C302,366 338,366 338,374 L340,416 L300,416 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M306.4,372 L315.5,412 L326.4,372" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="301" y="408" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        <circle cx="325.3" cy="388" r="4.5" fill="#fbbf24" stroke="#ffffff" stroke-width="1"/>
+        <!-- Front Arm -->
+        <g transform="translate(339, 378) rotate(-22)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="317.75" cy="350" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Hair Front/Side -->
+               <path d="M297.2,347 C298,322 342,322 339.2,347 C330,336 310,336 297.2,347 Z" fill="#475569" stroke="#0f172a" stroke-width="1.8"/>
+               <!-- Eyes -->
+               <ellipse cx="305" cy="350" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <ellipse cx="317" cy="350" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <circle cx="305" cy="350" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/><circle cx="317" cy="350" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/>
+               <!-- Mouth (Animated when talking) -->
+               <path d="M307,359 Q311,363 315,359" fill="none" stroke="#0f172a" stroke-width="1.8" stroke-linecap="round"/>
+        
+      </g><g id="r2_c3">
+        <!-- Ground Shadow -->
+        <ellipse cx="448" cy="460" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        <rect x="442" y="380" width="28" height="32" rx="7" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(440, 416)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(456, 416)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(429, 382) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M430,378 C430,370 466,370 466,378 L468,420 L428,420 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M434.4,376 L443.5,416 L454.4,376" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="429" y="412" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        <circle cx="453.3" cy="392" r="4.5" fill="#fbbf24" stroke="#ffffff" stroke-width="1"/>
+        <!-- Front Arm -->
+        <g transform="translate(467, 382) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="445.75" cy="354" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Hair Front/Side -->
+               <path d="M425.2,351 C426,326 470,326 467.2,351 C458,340 438,340 425.2,351 Z" fill="#475569" stroke="#0f172a" stroke-width="1.8"/>
+               <!-- Eyes -->
+               <ellipse cx="433" cy="354" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <ellipse cx="445" cy="354" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <circle cx="433" cy="354" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/><circle cx="445" cy="354" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/>
+               <!-- Mouth (Animated when talking) -->
+               <path d="M435,363 Q439,367 443,363" fill="none" stroke="#0f172a" stroke-width="1.8" stroke-linecap="round"/>
+        
+      </g><g id="r2_c4">
+        <!-- Ground Shadow -->
+        <ellipse cx="576" cy="460" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        <rect x="570" y="376" width="28" height="32" rx="7" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(573, 416)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(579, 404)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(557, 378) rotate(-22)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M558,374 C558,366 594,366 594,374 L596,416 L556,416 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M562.4,372 L571.5,412 L582.4,372" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="557" y="408" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        <circle cx="581.3" cy="388" r="4.5" fill="#fbbf24" stroke="#ffffff" stroke-width="1"/>
+        <!-- Front Arm -->
+        <g transform="translate(595, 378) rotate(22)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="573.75" cy="350" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Hair Front/Side -->
+               <path d="M553.2,347 C554,322 598,322 595.2,347 C586,336 566,336 553.2,347 Z" fill="#475569" stroke="#0f172a" stroke-width="1.8"/>
+               <!-- Eyes -->
+               <ellipse cx="561" cy="350" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <ellipse cx="573" cy="350" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <circle cx="561" cy="350" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/><circle cx="573" cy="350" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/>
+               <!-- Mouth (Animated when talking) -->
+               <path d="M563,359 Q567,363 571,359" fill="none" stroke="#0f172a" stroke-width="1.8" stroke-linecap="round"/>
+        
+      </g><g id="r2_c5">
+        <!-- Ground Shadow -->
+        <ellipse cx="704" cy="460" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        <rect x="698" y="380" width="28" height="32" rx="7" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(696, 416)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(712, 416)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(685, 382) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M686,378 C686,370 722,370 722,378 L724,420 L684,420 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M690.4,376 L699.5,416 L710.4,376" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="685" y="412" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        <circle cx="709.3" cy="392" r="4.5" fill="#fbbf24" stroke="#ffffff" stroke-width="1"/>
+        <!-- Front Arm -->
+        <g transform="translate(723, 382) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="701.75" cy="354" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Hair Front/Side -->
+               <path d="M681.2,351 C682,326 726,326 723.2,351 C714,340 694,340 681.2,351 Z" fill="#475569" stroke="#0f172a" stroke-width="1.8"/>
+               <!-- Eyes -->
+               <ellipse cx="689" cy="354" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <ellipse cx="701" cy="354" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <circle cx="689" cy="354" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/><circle cx="701" cy="354" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/>
+               <!-- Mouth (Animated when talking) -->
+               <path d="M691,363 Q695,367 699,363" fill="none" stroke="#0f172a" stroke-width="1.8" stroke-linecap="round"/>
+        
+      </g><g id="r2_c6">
+        <!-- Ground Shadow -->
+        <ellipse cx="832" cy="460" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        <rect x="826" y="380" width="28" height="32" rx="7" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(824, 416)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(840, 416)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(813, 382) rotate(-28)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M814,378 C814,370 850,370 850,378 L852,420 L812,420 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M818.4,376 L827.5,416 L838.4,376" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="813" y="412" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        <circle cx="837.3" cy="392" r="4.5" fill="#fbbf24" stroke="#ffffff" stroke-width="1"/>
+        <!-- Front Arm -->
+        <g transform="translate(851, 382) rotate(18)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="829.75" cy="354" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Hair Front/Side -->
+               <path d="M809.2,351 C810,326 854,326 851.2,351 C842,340 822,340 809.2,351 Z" fill="#475569" stroke="#0f172a" stroke-width="1.8"/>
+               <!-- Eyes -->
+               <ellipse cx="817" cy="354" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <ellipse cx="829" cy="354" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <circle cx="817" cy="354" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/><circle cx="829" cy="354" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/>
+               <!-- Mouth (Animated when talking) -->
+               <ellipse cx="823" cy="364" rx="4.5" ry="3.2" fill="#991b1b" stroke="#0f172a" stroke-width="1.2"/>
+        
+      </g><g id="r2_c7">
+        <!-- Ground Shadow -->
+        <ellipse cx="960" cy="460" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        <rect x="954" y="380" width="28" height="32" rx="7" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(952, 416)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(968, 416)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(941, 382) rotate(-12)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M942,378 C942,370 978,370 978,378 L980,420 L940,420 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M946.4,376 L955.5,416 L966.4,376" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="941" y="412" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        <circle cx="965.3" cy="392" r="4.5" fill="#fbbf24" stroke="#ffffff" stroke-width="1"/>
+        <!-- Front Arm -->
+        <g transform="translate(979, 382) rotate(34)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="957.75" cy="354" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Hair Front/Side -->
+               <path d="M937.2,351 C938,326 982,326 979.2,351 C970,340 950,340 937.2,351 Z" fill="#475569" stroke="#0f172a" stroke-width="1.8"/>
+               <!-- Eyes -->
+               <ellipse cx="945" cy="354" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <ellipse cx="957" cy="354" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <circle cx="945" cy="354" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/><circle cx="957" cy="354" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/>
+               <!-- Mouth (Animated when talking) -->
+               <path d="M947,363 Q951,367 955,363" fill="none" stroke="#0f172a" stroke-width="1.8" stroke-linecap="round"/>
+        
+      </g><g id="r3_c0">
+        <!-- Ground Shadow -->
+        <ellipse cx="64" cy="620" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        <rect x="55.6" y="540" width="28" height="32" rx="7" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(56, 576)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(72, 576)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(45, 542) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M46,538 C46,530 82,530 82,538 L84,580 L44,580 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M51.6,536 L61,576 L71.6,536" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="45" y="572" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        
+        <!-- Front Arm -->
+        <g transform="translate(83, 542) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="62.5" cy="514" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Full Back of Hair -->
+               <circle cx="62.5" cy="512" r="21.5" fill="#475569" stroke="#0f172a" stroke-width="2"/>
+        
+      </g><g id="r3_c1">
+        <!-- Ground Shadow -->
+        <ellipse cx="192" cy="620" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        <rect x="183.6" y="538" width="28" height="32" rx="7" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(184, 574)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(200, 574)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(173, 540) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M174,536 C174,528 210,528 210,536 L212,578 L172,578 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M179.6,534 L189,574 L199.6,534" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="173" y="570" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        
+        <!-- Front Arm -->
+        <g transform="translate(211, 540) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="190.5" cy="512" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Full Back of Hair -->
+               <circle cx="190.5" cy="510" r="21.5" fill="#475569" stroke="#0f172a" stroke-width="2"/>
+        
+      </g><g id="r3_c2">
+        <!-- Ground Shadow -->
+        <ellipse cx="320" cy="620" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        <rect x="311.6" y="536" width="28" height="32" rx="7" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(308.5, 564)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(331.5, 576)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(301, 538) rotate(22)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M302,534 C302,526 338,526 338,534 L340,576 L300,576 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M307.6,532 L317,572 L327.6,532" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="301" y="568" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        
+        <!-- Front Arm -->
+        <g transform="translate(339, 538) rotate(-22)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="318.5" cy="510" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Full Back of Hair -->
+               <circle cx="318.5" cy="508" r="21.5" fill="#475569" stroke="#0f172a" stroke-width="2"/>
+        
+      </g><g id="r3_c3">
+        <!-- Ground Shadow -->
+        <ellipse cx="448" cy="620" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        <rect x="439.6" y="540" width="28" height="32" rx="7" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(440, 576)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(456, 576)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(429, 542) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M430,538 C430,530 466,530 466,538 L468,580 L428,580 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M435.6,536 L445,576 L455.6,536" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="429" y="572" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        
+        <!-- Front Arm -->
+        <g transform="translate(467, 542) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="446.5" cy="514" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Full Back of Hair -->
+               <circle cx="446.5" cy="512" r="21.5" fill="#475569" stroke="#0f172a" stroke-width="2"/>
+        
+      </g><g id="r3_c4">
+        <!-- Ground Shadow -->
+        <ellipse cx="576" cy="620" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        <rect x="567.6" y="536" width="28" height="32" rx="7" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(571.5, 576)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(580.5, 564)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(557, 538) rotate(-22)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M558,534 C558,526 594,526 594,534 L596,576 L556,576 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M563.6,532 L573,572 L583.6,532" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="557" y="568" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        
+        <!-- Front Arm -->
+        <g transform="translate(595, 538) rotate(22)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="574.5" cy="510" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Full Back of Hair -->
+               <circle cx="574.5" cy="508" r="21.5" fill="#475569" stroke="#0f172a" stroke-width="2"/>
+        
+      </g><g id="r3_c5">
+        <!-- Ground Shadow -->
+        <ellipse cx="704" cy="620" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        <rect x="695.6" y="540" width="28" height="32" rx="7" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(696, 576)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(712, 576)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(685, 542) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M686,538 C686,530 722,530 722,538 L724,580 L684,580 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M691.6,536 L701,576 L711.6,536" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="685" y="572" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        
+        <!-- Front Arm -->
+        <g transform="translate(723, 542) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="702.5" cy="514" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Full Back of Hair -->
+               <circle cx="702.5" cy="512" r="21.5" fill="#475569" stroke="#0f172a" stroke-width="2"/>
+        
+      </g><g id="r3_c6">
+        <!-- Ground Shadow -->
+        <ellipse cx="832" cy="620" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        <rect x="823.6" y="540" width="28" height="32" rx="7" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(824, 576)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(840, 576)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(813, 542) rotate(-28)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M814,538 C814,530 850,530 850,538 L852,580 L812,580 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M819.6,536 L829,576 L839.6,536" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="813" y="572" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        
+        <!-- Front Arm -->
+        <g transform="translate(851, 542) rotate(18)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="830.5" cy="514" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Full Back of Hair -->
+               <circle cx="830.5" cy="512" r="21.5" fill="#475569" stroke="#0f172a" stroke-width="2"/>
+        
+      </g><g id="r3_c7">
+        <!-- Ground Shadow -->
+        <ellipse cx="960" cy="620" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        <rect x="951.6" y="540" width="28" height="32" rx="7" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(952, 576)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(968, 576)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(941, 542) rotate(-12)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M942,538 C942,530 978,530 978,538 L980,580 L940,580 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M947.6,536 L957,576 L967.6,536" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="941" y="572" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        
+        <!-- Front Arm -->
+        <g transform="translate(979, 542) rotate(34)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="958.5" cy="514" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Full Back of Hair -->
+               <circle cx="958.5" cy="512" r="21.5" fill="#475569" stroke="#0f172a" stroke-width="2"/>
+        
+      </g><g id="r4_c0">
+        <!-- Ground Shadow -->
+        <ellipse cx="64" cy="780" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        <rect x="50" y="700" width="28" height="32" rx="7" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(56, 736)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(72, 736)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(45, 702) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M46,698 C46,690 82,690 82,698 L84,740 L44,740 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M54,696 L64,736 L74,696" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="45" y="732" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        
+        <!-- Front Arm -->
+        <g transform="translate(83, 702) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="64" cy="674" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Full Back of Hair -->
+               <circle cx="64" cy="672" r="21.5" fill="#475569" stroke="#0f172a" stroke-width="2"/>
+        
+      </g><g id="r4_c1">
+        <!-- Ground Shadow -->
+        <ellipse cx="192" cy="780" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        <rect x="178" y="698" width="28" height="32" rx="7" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(184, 734)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(200, 734)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(173, 700) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M174,696 C174,688 210,688 210,696 L212,738 L172,738 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M182,694 L192,734 L202,694" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="173" y="730" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        
+        <!-- Front Arm -->
+        <g transform="translate(211, 700) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="192" cy="672" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Full Back of Hair -->
+               <circle cx="192" cy="670" r="21.5" fill="#475569" stroke="#0f172a" stroke-width="2"/>
+        
+      </g><g id="r4_c2">
+        <!-- Ground Shadow -->
+        <ellipse cx="320" cy="780" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        <rect x="306" y="696" width="28" height="32" rx="7" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(312, 724)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(328, 736)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(301, 698) rotate(22)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M302,694 C302,686 338,686 338,694 L340,736 L300,736 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M310,692 L320,732 L330,692" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="301" y="728" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        
+        <!-- Front Arm -->
+        <g transform="translate(339, 698) rotate(-22)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="320" cy="670" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Full Back of Hair -->
+               <circle cx="320" cy="668" r="21.5" fill="#475569" stroke="#0f172a" stroke-width="2"/>
+        
+      </g><g id="r4_c3">
+        <!-- Ground Shadow -->
+        <ellipse cx="448" cy="780" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        <rect x="434" y="700" width="28" height="32" rx="7" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(440, 736)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(456, 736)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(429, 702) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M430,698 C430,690 466,690 466,698 L468,740 L428,740 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M438,696 L448,736 L458,696" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="429" y="732" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        
+        <!-- Front Arm -->
+        <g transform="translate(467, 702) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="448" cy="674" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Full Back of Hair -->
+               <circle cx="448" cy="672" r="21.5" fill="#475569" stroke="#0f172a" stroke-width="2"/>
+        
+      </g><g id="r4_c4">
+        <!-- Ground Shadow -->
+        <ellipse cx="576" cy="780" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        <rect x="562" y="696" width="28" height="32" rx="7" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(568, 736)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(584, 724)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(557, 698) rotate(-22)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M558,694 C558,686 594,686 594,694 L596,736 L556,736 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M566,692 L576,732 L586,692" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="557" y="728" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        
+        <!-- Front Arm -->
+        <g transform="translate(595, 698) rotate(22)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="576" cy="670" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Full Back of Hair -->
+               <circle cx="576" cy="668" r="21.5" fill="#475569" stroke="#0f172a" stroke-width="2"/>
+        
+      </g><g id="r4_c5">
+        <!-- Ground Shadow -->
+        <ellipse cx="704" cy="780" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        <rect x="690" y="700" width="28" height="32" rx="7" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(696, 736)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(712, 736)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(685, 702) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M686,698 C686,690 722,690 722,698 L724,740 L684,740 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M694,696 L704,736 L714,696" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="685" y="732" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        
+        <!-- Front Arm -->
+        <g transform="translate(723, 702) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="704" cy="674" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Full Back of Hair -->
+               <circle cx="704" cy="672" r="21.5" fill="#475569" stroke="#0f172a" stroke-width="2"/>
+        
+      </g><g id="r4_c6">
+        <!-- Ground Shadow -->
+        <ellipse cx="832" cy="780" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        <rect x="818" y="700" width="28" height="32" rx="7" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(824, 736)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(840, 736)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(813, 702) rotate(-28)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M814,698 C814,690 850,690 850,698 L852,740 L812,740 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M822,696 L832,736 L842,696" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="813" y="732" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        
+        <!-- Front Arm -->
+        <g transform="translate(851, 702) rotate(18)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="832" cy="674" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Full Back of Hair -->
+               <circle cx="832" cy="672" r="21.5" fill="#475569" stroke="#0f172a" stroke-width="2"/>
+        
+      </g><g id="r4_c7">
+        <!-- Ground Shadow -->
+        <ellipse cx="960" cy="780" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        <rect x="946" y="700" width="28" height="32" rx="7" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(952, 736)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(968, 736)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(941, 702) rotate(-12)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M942,698 C942,690 978,690 978,698 L980,740 L940,740 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M950,696 L960,736 L970,696" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="941" y="732" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        
+        <!-- Front Arm -->
+        <g transform="translate(979, 702) rotate(34)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="960" cy="674" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Full Back of Hair -->
+               <circle cx="960" cy="672" r="21.5" fill="#475569" stroke="#0f172a" stroke-width="2"/>
+        
+      </g><g id="r5_c0">
+        <!-- Ground Shadow -->
+        <ellipse cx="64" cy="940" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        <rect x="44.4" y="860" width="28" height="32" rx="7" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(56, 896)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(72, 896)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(45, 862) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M46,858 C46,850 82,850 82,858 L84,900 L44,900 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M56.4,856 L67,896 L76.4,856" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="45" y="892" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        
+        <!-- Front Arm -->
+        <g transform="translate(83, 862) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="65.5" cy="834" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Full Back of Hair -->
+               <circle cx="65.5" cy="832" r="21.5" fill="#475569" stroke="#0f172a" stroke-width="2"/>
+        
+      </g><g id="r5_c1">
+        <!-- Ground Shadow -->
+        <ellipse cx="192" cy="940" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        <rect x="172.4" y="858" width="28" height="32" rx="7" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(184, 894)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(200, 894)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(173, 860) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M174,856 C174,848 210,848 210,856 L212,898 L172,898 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M184.4,854 L195,894 L204.4,854" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="173" y="890" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        
+        <!-- Front Arm -->
+        <g transform="translate(211, 860) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="193.5" cy="832" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Full Back of Hair -->
+               <circle cx="193.5" cy="830" r="21.5" fill="#475569" stroke="#0f172a" stroke-width="2"/>
+        
+      </g><g id="r5_c2">
+        <!-- Ground Shadow -->
+        <ellipse cx="320" cy="940" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        <rect x="300.4" y="856" width="28" height="32" rx="7" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(315.5, 884)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(324.5, 896)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(301, 858) rotate(22)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M302,854 C302,846 338,846 338,854 L340,896 L300,896 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M312.4,852 L323,892 L332.4,852" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="301" y="888" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        
+        <!-- Front Arm -->
+        <g transform="translate(339, 858) rotate(-22)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="321.5" cy="830" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Full Back of Hair -->
+               <circle cx="321.5" cy="828" r="21.5" fill="#475569" stroke="#0f172a" stroke-width="2"/>
+        
+      </g><g id="r5_c3">
+        <!-- Ground Shadow -->
+        <ellipse cx="448" cy="940" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        <rect x="428.4" y="860" width="28" height="32" rx="7" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(440, 896)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(456, 896)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(429, 862) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M430,858 C430,850 466,850 466,858 L468,900 L428,900 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M440.4,856 L451,896 L460.4,856" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="429" y="892" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        
+        <!-- Front Arm -->
+        <g transform="translate(467, 862) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="449.5" cy="834" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Full Back of Hair -->
+               <circle cx="449.5" cy="832" r="21.5" fill="#475569" stroke="#0f172a" stroke-width="2"/>
+        
+      </g><g id="r5_c4">
+        <!-- Ground Shadow -->
+        <ellipse cx="576" cy="940" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        <rect x="556.4" y="856" width="28" height="32" rx="7" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(564.5, 896)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(587.5, 884)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(557, 858) rotate(-22)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M558,854 C558,846 594,846 594,854 L596,896 L556,896 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M568.4,852 L579,892 L588.4,852" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="557" y="888" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        
+        <!-- Front Arm -->
+        <g transform="translate(595, 858) rotate(22)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="577.5" cy="830" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Full Back of Hair -->
+               <circle cx="577.5" cy="828" r="21.5" fill="#475569" stroke="#0f172a" stroke-width="2"/>
+        
+      </g><g id="r5_c5">
+        <!-- Ground Shadow -->
+        <ellipse cx="704" cy="940" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        <rect x="684.4" y="860" width="28" height="32" rx="7" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(696, 896)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(712, 896)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(685, 862) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M686,858 C686,850 722,850 722,858 L724,900 L684,900 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M696.4,856 L707,896 L716.4,856" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="685" y="892" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        
+        <!-- Front Arm -->
+        <g transform="translate(723, 862) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="705.5" cy="834" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Full Back of Hair -->
+               <circle cx="705.5" cy="832" r="21.5" fill="#475569" stroke="#0f172a" stroke-width="2"/>
+        
+      </g><g id="r5_c6">
+        <!-- Ground Shadow -->
+        <ellipse cx="832" cy="940" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        <rect x="812.4" y="860" width="28" height="32" rx="7" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(824, 896)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(840, 896)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(813, 862) rotate(-28)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M814,858 C814,850 850,850 850,858 L852,900 L812,900 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M824.4,856 L835,896 L844.4,856" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="813" y="892" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        
+        <!-- Front Arm -->
+        <g transform="translate(851, 862) rotate(18)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="833.5" cy="834" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Full Back of Hair -->
+               <circle cx="833.5" cy="832" r="21.5" fill="#475569" stroke="#0f172a" stroke-width="2"/>
+        
+      </g><g id="r5_c7">
+        <!-- Ground Shadow -->
+        <ellipse cx="960" cy="940" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        <rect x="940.4" y="860" width="28" height="32" rx="7" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(952, 896)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(968, 896)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(941, 862) rotate(-12)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M942,858 C942,850 978,850 978,858 L980,900 L940,900 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M952.4,856 L963,896 L972.4,856" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="941" y="892" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        
+        <!-- Front Arm -->
+        <g transform="translate(979, 862) rotate(34)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="961.5" cy="834" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Full Back of Hair -->
+               <circle cx="961.5" cy="832" r="21.5" fill="#475569" stroke="#0f172a" stroke-width="2"/>
+        
+      </g><g id="r6_c0">
+        <!-- Ground Shadow -->
+        <ellipse cx="64" cy="1100" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        <rect x="42" y="1020" width="28" height="32" rx="7" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(56, 1056)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(72, 1056)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(45, 1022) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M46,1018 C46,1010 82,1010 82,1018 L84,1060 L44,1060 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M57.6,1016 L68.5,1056 L77.6,1016" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="45" y="1052" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        <circle cx="74.7" cy="1032" r="4.5" fill="#fbbf24" stroke="#ffffff" stroke-width="1"/>
+        <!-- Front Arm -->
+        <g transform="translate(83, 1022) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="66.25" cy="994" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Hair Front/Side -->
+               <path d="M44.8,991 C42,966 86,966 86.8,991 C74,980 54,980 44.8,991 Z" fill="#475569" stroke="#0f172a" stroke-width="1.8"/>
+               <!-- Eyes -->
+               <ellipse cx="67" cy="994" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <ellipse cx="79" cy="994" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <circle cx="67" cy="994" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/><circle cx="79" cy="994" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/>
+               <!-- Mouth (Animated when talking) -->
+               <path d="M69,1003 Q73,1007 77,1003" fill="none" stroke="#0f172a" stroke-width="1.8" stroke-linecap="round"/>
+        
+      </g><g id="r6_c1">
+        <!-- Ground Shadow -->
+        <ellipse cx="192" cy="1100" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        <rect x="170" y="1018" width="28" height="32" rx="7" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(184, 1054)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(200, 1054)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(173, 1020) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M174,1016 C174,1008 210,1008 210,1016 L212,1058 L172,1058 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M185.6,1014 L196.5,1054 L205.6,1014" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="173" y="1050" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        <circle cx="202.7" cy="1030" r="4.5" fill="#fbbf24" stroke="#ffffff" stroke-width="1"/>
+        <!-- Front Arm -->
+        <g transform="translate(211, 1020) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="194.25" cy="992" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Hair Front/Side -->
+               <path d="M172.8,989 C170,964 214,964 214.8,989 C202,978 182,978 172.8,989 Z" fill="#475569" stroke="#0f172a" stroke-width="1.8"/>
+               <!-- Eyes -->
+               <ellipse cx="195" cy="992" rx="2.6" ry="0.8" fill="#0f172a"/>
+               <ellipse cx="207" cy="992" rx="2.6" ry="0.8" fill="#0f172a"/>
+               <circle cx="195" cy="992" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/><circle cx="207" cy="992" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/>
+               <!-- Mouth (Animated when talking) -->
+               <path d="M197,1001 Q201,1005 205,1001" fill="none" stroke="#0f172a" stroke-width="1.8" stroke-linecap="round"/>
+        
+      </g><g id="r6_c2">
+        <!-- Ground Shadow -->
+        <ellipse cx="320" cy="1100" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        <rect x="298" y="1016" width="28" height="32" rx="7" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(317, 1044)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(323, 1056)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(301, 1018) rotate(22)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M302,1014 C302,1006 338,1006 338,1014 L340,1056 L300,1056 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M313.6,1012 L324.5,1052 L333.6,1012" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="301" y="1048" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        <circle cx="330.7" cy="1028" r="4.5" fill="#fbbf24" stroke="#ffffff" stroke-width="1"/>
+        <!-- Front Arm -->
+        <g transform="translate(339, 1018) rotate(-22)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="322.25" cy="990" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Hair Front/Side -->
+               <path d="M300.8,987 C298,962 342,962 342.8,987 C330,976 310,976 300.8,987 Z" fill="#475569" stroke="#0f172a" stroke-width="1.8"/>
+               <!-- Eyes -->
+               <ellipse cx="323" cy="990" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <ellipse cx="335" cy="990" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <circle cx="323" cy="990" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/><circle cx="335" cy="990" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/>
+               <!-- Mouth (Animated when talking) -->
+               <path d="M325,999 Q329,1003 333,999" fill="none" stroke="#0f172a" stroke-width="1.8" stroke-linecap="round"/>
+        
+      </g><g id="r6_c3">
+        <!-- Ground Shadow -->
+        <ellipse cx="448" cy="1100" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        <rect x="426" y="1020" width="28" height="32" rx="7" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(440, 1056)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(456, 1056)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(429, 1022) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M430,1018 C430,1010 466,1010 466,1018 L468,1060 L428,1060 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M441.6,1016 L452.5,1056 L461.6,1016" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="429" y="1052" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        <circle cx="458.7" cy="1032" r="4.5" fill="#fbbf24" stroke="#ffffff" stroke-width="1"/>
+        <!-- Front Arm -->
+        <g transform="translate(467, 1022) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="450.25" cy="994" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Hair Front/Side -->
+               <path d="M428.8,991 C426,966 470,966 470.8,991 C458,980 438,980 428.8,991 Z" fill="#475569" stroke="#0f172a" stroke-width="1.8"/>
+               <!-- Eyes -->
+               <ellipse cx="451" cy="994" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <ellipse cx="463" cy="994" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <circle cx="451" cy="994" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/><circle cx="463" cy="994" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/>
+               <!-- Mouth (Animated when talking) -->
+               <path d="M453,1003 Q457,1007 461,1003" fill="none" stroke="#0f172a" stroke-width="1.8" stroke-linecap="round"/>
+        
+      </g><g id="r6_c4">
+        <!-- Ground Shadow -->
+        <ellipse cx="576" cy="1100" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        <rect x="554" y="1016" width="28" height="32" rx="7" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(563, 1056)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(589, 1044)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(557, 1018) rotate(-22)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M558,1014 C558,1006 594,1006 594,1014 L596,1056 L556,1056 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M569.6,1012 L580.5,1052 L589.6,1012" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="557" y="1048" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        <circle cx="586.7" cy="1028" r="4.5" fill="#fbbf24" stroke="#ffffff" stroke-width="1"/>
+        <!-- Front Arm -->
+        <g transform="translate(595, 1018) rotate(22)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="578.25" cy="990" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Hair Front/Side -->
+               <path d="M556.8,987 C554,962 598,962 598.8,987 C586,976 566,976 556.8,987 Z" fill="#475569" stroke="#0f172a" stroke-width="1.8"/>
+               <!-- Eyes -->
+               <ellipse cx="579" cy="990" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <ellipse cx="591" cy="990" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <circle cx="579" cy="990" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/><circle cx="591" cy="990" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/>
+               <!-- Mouth (Animated when talking) -->
+               <path d="M581,999 Q585,1003 589,999" fill="none" stroke="#0f172a" stroke-width="1.8" stroke-linecap="round"/>
+        
+      </g><g id="r6_c5">
+        <!-- Ground Shadow -->
+        <ellipse cx="704" cy="1100" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        <rect x="682" y="1020" width="28" height="32" rx="7" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(696, 1056)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(712, 1056)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(685, 1022) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M686,1018 C686,1010 722,1010 722,1018 L724,1060 L684,1060 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M697.6,1016 L708.5,1056 L717.6,1016" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="685" y="1052" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        <circle cx="714.7" cy="1032" r="4.5" fill="#fbbf24" stroke="#ffffff" stroke-width="1"/>
+        <!-- Front Arm -->
+        <g transform="translate(723, 1022) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="706.25" cy="994" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Hair Front/Side -->
+               <path d="M684.8,991 C682,966 726,966 726.8,991 C714,980 694,980 684.8,991 Z" fill="#475569" stroke="#0f172a" stroke-width="1.8"/>
+               <!-- Eyes -->
+               <ellipse cx="707" cy="994" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <ellipse cx="719" cy="994" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <circle cx="707" cy="994" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/><circle cx="719" cy="994" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/>
+               <!-- Mouth (Animated when talking) -->
+               <path d="M709,1003 Q713,1007 717,1003" fill="none" stroke="#0f172a" stroke-width="1.8" stroke-linecap="round"/>
+        
+      </g><g id="r6_c6">
+        <!-- Ground Shadow -->
+        <ellipse cx="832" cy="1100" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        <rect x="810" y="1020" width="28" height="32" rx="7" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(824, 1056)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(840, 1056)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(813, 1022) rotate(-28)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M814,1018 C814,1010 850,1010 850,1018 L852,1060 L812,1060 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M825.6,1016 L836.5,1056 L845.6,1016" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="813" y="1052" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        <circle cx="842.7" cy="1032" r="4.5" fill="#fbbf24" stroke="#ffffff" stroke-width="1"/>
+        <!-- Front Arm -->
+        <g transform="translate(851, 1022) rotate(18)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="834.25" cy="994" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Hair Front/Side -->
+               <path d="M812.8,991 C810,966 854,966 854.8,991 C842,980 822,980 812.8,991 Z" fill="#475569" stroke="#0f172a" stroke-width="1.8"/>
+               <!-- Eyes -->
+               <ellipse cx="835" cy="994" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <ellipse cx="847" cy="994" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <circle cx="835" cy="994" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/><circle cx="847" cy="994" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/>
+               <!-- Mouth (Animated when talking) -->
+               <ellipse cx="841" cy="1004" rx="4.5" ry="3.2" fill="#991b1b" stroke="#0f172a" stroke-width="1.2"/>
+        
+      </g><g id="r6_c7">
+        <!-- Ground Shadow -->
+        <ellipse cx="960" cy="1100" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        <rect x="938" y="1020" width="28" height="32" rx="7" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(952, 1056)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(968, 1056)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(941, 1022) rotate(-12)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M942,1018 C942,1010 978,1010 978,1018 L980,1060 L940,1060 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M953.6,1016 L964.5,1056 L973.6,1016" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="941" y="1052" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        <circle cx="970.7" cy="1032" r="4.5" fill="#fbbf24" stroke="#ffffff" stroke-width="1"/>
+        <!-- Front Arm -->
+        <g transform="translate(979, 1022) rotate(34)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="962.25" cy="994" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Hair Front/Side -->
+               <path d="M940.8,991 C938,966 982,966 982.8,991 C970,980 950,980 940.8,991 Z" fill="#475569" stroke="#0f172a" stroke-width="1.8"/>
+               <!-- Eyes -->
+               <ellipse cx="963" cy="994" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <ellipse cx="975" cy="994" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <circle cx="963" cy="994" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/><circle cx="975" cy="994" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/>
+               <!-- Mouth (Animated when talking) -->
+               <path d="M965,1003 Q969,1007 973,1003" fill="none" stroke="#0f172a" stroke-width="1.8" stroke-linecap="round"/>
+        
+      </g><g id="r7_c0">
+        <!-- Ground Shadow -->
+        <ellipse cx="64" cy="1260" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(56, 1216)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(72, 1216)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(45, 1182) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M46,1178 C46,1170 82,1170 82,1178 L84,1220 L44,1220 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M56,1176 L66.5,1216 L76,1176" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="45" y="1212" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        <circle cx="73.5" cy="1192" r="4.5" fill="#fbbf24" stroke="#ffffff" stroke-width="1"/>
+        <!-- Front Arm -->
+        <g transform="translate(83, 1182) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="65.25" cy="1154" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Hair Front/Side -->
+               <path d="M44,1151 C42,1126 86,1126 86,1151 C74,1140 54,1140 44,1151 Z" fill="#475569" stroke="#0f172a" stroke-width="1.8"/>
+               <!-- Eyes -->
+               <ellipse cx="63" cy="1154" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <ellipse cx="75" cy="1154" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <circle cx="63" cy="1154" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/><circle cx="75" cy="1154" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/>
+               <!-- Mouth (Animated when talking) -->
+               <path d="M65,1163 Q69,1167 73,1163" fill="none" stroke="#0f172a" stroke-width="1.8" stroke-linecap="round"/>
+        
+      </g><g id="r7_c1">
+        <!-- Ground Shadow -->
+        <ellipse cx="192" cy="1260" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(184, 1214)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(200, 1214)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(173, 1180) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M174,1176 C174,1168 210,1168 210,1176 L212,1218 L172,1218 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M184,1174 L194.5,1214 L204,1174" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="173" y="1210" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        <circle cx="201.5" cy="1190" r="4.5" fill="#fbbf24" stroke="#ffffff" stroke-width="1"/>
+        <!-- Front Arm -->
+        <g transform="translate(211, 1180) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="193.25" cy="1152" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Hair Front/Side -->
+               <path d="M172,1149 C170,1124 214,1124 214,1149 C202,1138 182,1138 172,1149 Z" fill="#475569" stroke="#0f172a" stroke-width="1.8"/>
+               <!-- Eyes -->
+               <ellipse cx="191" cy="1152" rx="2.6" ry="0.8" fill="#0f172a"/>
+               <ellipse cx="203" cy="1152" rx="2.6" ry="0.8" fill="#0f172a"/>
+               <circle cx="191" cy="1152" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/><circle cx="203" cy="1152" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/>
+               <!-- Mouth (Animated when talking) -->
+               <path d="M193,1161 Q197,1165 201,1161" fill="none" stroke="#0f172a" stroke-width="1.8" stroke-linecap="round"/>
+        
+      </g><g id="r7_c2">
+        <!-- Ground Shadow -->
+        <ellipse cx="320" cy="1260" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(314.5, 1204)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(325.5, 1216)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(301, 1178) rotate(22)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M302,1174 C302,1166 338,1166 338,1174 L340,1216 L300,1216 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M312,1172 L322.5,1212 L332,1172" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="301" y="1208" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        <circle cx="329.5" cy="1188" r="4.5" fill="#fbbf24" stroke="#ffffff" stroke-width="1"/>
+        <!-- Front Arm -->
+        <g transform="translate(339, 1178) rotate(-22)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="321.25" cy="1150" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Hair Front/Side -->
+               <path d="M300,1147 C298,1122 342,1122 342,1147 C330,1136 310,1136 300,1147 Z" fill="#475569" stroke="#0f172a" stroke-width="1.8"/>
+               <!-- Eyes -->
+               <ellipse cx="319" cy="1150" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <ellipse cx="331" cy="1150" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <circle cx="319" cy="1150" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/><circle cx="331" cy="1150" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/>
+               <!-- Mouth (Animated when talking) -->
+               <path d="M321,1159 Q325,1163 329,1159" fill="none" stroke="#0f172a" stroke-width="1.8" stroke-linecap="round"/>
+        
+      </g><g id="r7_c3">
+        <!-- Ground Shadow -->
+        <ellipse cx="448" cy="1260" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(440, 1216)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(456, 1216)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(429, 1182) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M430,1178 C430,1170 466,1170 466,1178 L468,1220 L428,1220 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M440,1176 L450.5,1216 L460,1176" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="429" y="1212" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        <circle cx="457.5" cy="1192" r="4.5" fill="#fbbf24" stroke="#ffffff" stroke-width="1"/>
+        <!-- Front Arm -->
+        <g transform="translate(467, 1182) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="449.25" cy="1154" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Hair Front/Side -->
+               <path d="M428,1151 C426,1126 470,1126 470,1151 C458,1140 438,1140 428,1151 Z" fill="#475569" stroke="#0f172a" stroke-width="1.8"/>
+               <!-- Eyes -->
+               <ellipse cx="447" cy="1154" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <ellipse cx="459" cy="1154" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <circle cx="447" cy="1154" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/><circle cx="459" cy="1154" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/>
+               <!-- Mouth (Animated when talking) -->
+               <path d="M449,1163 Q453,1167 457,1163" fill="none" stroke="#0f172a" stroke-width="1.8" stroke-linecap="round"/>
+        
+      </g><g id="r7_c4">
+        <!-- Ground Shadow -->
+        <ellipse cx="576" cy="1260" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(565.5, 1216)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(586.5, 1204)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(557, 1178) rotate(-22)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M558,1174 C558,1166 594,1166 594,1174 L596,1216 L556,1216 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M568,1172 L578.5,1212 L588,1172" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="557" y="1208" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        <circle cx="585.5" cy="1188" r="4.5" fill="#fbbf24" stroke="#ffffff" stroke-width="1"/>
+        <!-- Front Arm -->
+        <g transform="translate(595, 1178) rotate(22)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="577.25" cy="1150" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Hair Front/Side -->
+               <path d="M556,1147 C554,1122 598,1122 598,1147 C586,1136 566,1136 556,1147 Z" fill="#475569" stroke="#0f172a" stroke-width="1.8"/>
+               <!-- Eyes -->
+               <ellipse cx="575" cy="1150" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <ellipse cx="587" cy="1150" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <circle cx="575" cy="1150" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/><circle cx="587" cy="1150" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/>
+               <!-- Mouth (Animated when talking) -->
+               <path d="M577,1159 Q581,1163 585,1159" fill="none" stroke="#0f172a" stroke-width="1.8" stroke-linecap="round"/>
+        
+      </g><g id="r7_c5">
+        <!-- Ground Shadow -->
+        <ellipse cx="704" cy="1260" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(696, 1216)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(712, 1216)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(685, 1182) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M686,1178 C686,1170 722,1170 722,1178 L724,1220 L684,1220 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M696,1176 L706.5,1216 L716,1176" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="685" y="1212" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        <circle cx="713.5" cy="1192" r="4.5" fill="#fbbf24" stroke="#ffffff" stroke-width="1"/>
+        <!-- Front Arm -->
+        <g transform="translate(723, 1182) rotate(0)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="705.25" cy="1154" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Hair Front/Side -->
+               <path d="M684,1151 C682,1126 726,1126 726,1151 C714,1140 694,1140 684,1151 Z" fill="#475569" stroke="#0f172a" stroke-width="1.8"/>
+               <!-- Eyes -->
+               <ellipse cx="703" cy="1154" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <ellipse cx="715" cy="1154" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <circle cx="703" cy="1154" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/><circle cx="715" cy="1154" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/>
+               <!-- Mouth (Animated when talking) -->
+               <path d="M705,1163 Q709,1167 713,1163" fill="none" stroke="#0f172a" stroke-width="1.8" stroke-linecap="round"/>
+        
+      </g><g id="r7_c6">
+        <!-- Ground Shadow -->
+        <ellipse cx="832" cy="1260" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(824, 1216)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(840, 1216)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(813, 1182) rotate(-28)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M814,1178 C814,1170 850,1170 850,1178 L852,1220 L812,1220 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M824,1176 L834.5,1216 L844,1176" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="813" y="1212" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        <circle cx="841.5" cy="1192" r="4.5" fill="#fbbf24" stroke="#ffffff" stroke-width="1"/>
+        <!-- Front Arm -->
+        <g transform="translate(851, 1182) rotate(18)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="833.25" cy="1154" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Hair Front/Side -->
+               <path d="M812,1151 C810,1126 854,1126 854,1151 C842,1140 822,1140 812,1151 Z" fill="#475569" stroke="#0f172a" stroke-width="1.8"/>
+               <!-- Eyes -->
+               <ellipse cx="831" cy="1154" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <ellipse cx="843" cy="1154" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <circle cx="831" cy="1154" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/><circle cx="843" cy="1154" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/>
+               <!-- Mouth (Animated when talking) -->
+               <ellipse cx="837" cy="1164" rx="4.5" ry="3.2" fill="#991b1b" stroke="#0f172a" stroke-width="1.2"/>
+        
+      </g><g id="r7_c7">
+        <!-- Ground Shadow -->
+        <ellipse cx="960" cy="1260" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Backpack when seen from side/back -->
+        
+        <!-- Left & Right Legs + Boots -->
+        <g transform="translate(952, 1216)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <g transform="translate(968, 1216)">
+          <rect x="-6" y="0" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <rect x="-7" y="24" width="14" height="10" rx="4" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+        </g>
+        <!-- Back Arm -->
+        <g transform="translate(941, 1182) rotate(-12)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        </g>
+        <!-- Torso Jumpsuit -->
+        <path d="M942,1178 C942,1170 978,1170 978,1178 L980,1220 L940,1220 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Collar & Trim -->
+        <path d="M952,1176 L962.5,1216 L972,1176" fill="none" stroke="#34d399" stroke-width="2.5"/>
+        <rect x="941" y="1212" width="38" height="6" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1.2"/>
+        <circle cx="969.5" cy="1192" r="4.5" fill="#fbbf24" stroke="#ffffff" stroke-width="1"/>
+        <!-- Front Arm -->
+        <g transform="translate(979, 1182) rotate(34)">
+          <rect x="-5" y="0" width="10" height="30" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <circle cx="0" cy="31" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+          
+        </g>
+        <!-- Head & Hair -->
+        <circle cx="961.25" cy="1154" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Hair Front/Side -->
+               <path d="M940,1151 C938,1126 982,1126 982,1151 C970,1140 950,1140 940,1151 Z" fill="#475569" stroke="#0f172a" stroke-width="1.8"/>
+               <!-- Eyes -->
+               <ellipse cx="959" cy="1154" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <ellipse cx="971" cy="1154" rx="2.6" ry="3.2" fill="#0f172a"/>
+               <circle cx="959" cy="1154" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/><circle cx="971" cy="1154" r="6" fill="rgba(56,189,248,0.28)" stroke="#fbbf24" stroke-width="1.6"/>
+               <!-- Mouth (Animated when talking) -->
+               <path d="M961,1163 Q965,1167 969,1163" fill="none" stroke="#0f172a" stroke-width="1.8" stroke-linecap="round"/>
+        
+      </g><g id="r8_c0">
+        <ellipse cx="64" cy="1420" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <rect x="51" y="1376" width="11" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <rect x="66" y="1376" width="11" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <path d="M47,1338 L81,1338 L83,1380 L45,1380 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Extended Reaching Arms + Glowing Nutrient Canister -->
+        <rect x="72" y="1342" width="28" height="10" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+        <circle cx="100" cy="1347" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        <rect x="102" y="1336" width="12" height="20" rx="4" fill="#22d3ee" stroke="#ffffff" stroke-width="2"/>
+        <circle cx="67" cy="1314" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <path d="M46,1310 C46,1287 88,1287 88,1310 Z" fill="#475569" stroke="#0f172a" stroke-width="1.8"/>
+        <circle cx="74" cy="1314" r="2.8" fill="#0f172a"/>
+        <path d="M70,1323 Q75,1327 79,1323" fill="none" stroke="#0f172a" stroke-width="1.8"/>
+      </g><g id="r8_c1">
+        <ellipse cx="192" cy="1420" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <rect x="179" y="1376" width="11" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <rect x="194" y="1376" width="11" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <path d="M175,1338 L209,1338 L211,1380 L173,1380 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <!-- Extended Reaching Arms + Glowing Nutrient Canister -->
+        <rect x="200" y="1342" width="34" height="10" rx="5" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+        <circle cx="234" cy="1347" r="5.5" fill="#fed7aa" stroke="#0f172a" stroke-width="1.5"/>
+        <rect x="236" y="1336" width="12" height="20" rx="4" fill="#22d3ee" stroke="#ffffff" stroke-width="2"/>
+        <circle cx="195" cy="1314" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <path d="M174,1310 C174,1287 216,1287 216,1310 Z" fill="#475569" stroke="#0f172a" stroke-width="1.8"/>
+        <circle cx="202" cy="1314" r="2.8" fill="#0f172a"/>
+        <path d="M198,1323 Q203,1327 207,1323" fill="none" stroke="#0f172a" stroke-width="1.8"/>
+      </g><g id="r8_c2">
+        <ellipse cx="320" cy="1384" rx="48" ry="20" fill="rgba(0,0,0,0.35)"/>
+        <g transform="translate(320, 1376) rotate(-26)">
+          <!-- Horizontal Torso & Legs -->
+          <rect x="-38" y="-12" width="44" height="24" rx="8" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <rect x="4" y="-10" width="34" height="20" rx="6" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <!-- Sleeping Head on Pillow -->
+          <circle cx="-46" cy="-2" r="17" fill="#fed7aa" stroke="#0f172a" stroke-width="2"/>
+          <path d="M-62,-6 C-62,-22 -30,-22 -30,-6 Z" fill="#475569" stroke="#0f172a" stroke-width="1.6"/>
+          <!-- Closed Peaceful Eyes -->
+          <path d="M-44,-4 Q-40,-1 -36,-4" fill="none" stroke="#0f172a" stroke-width="2"/>
+        </g>
+        <!-- Floating Zzz -->
+        <text x="302" y="1332" fill="#38bdf8" font-family="sans-serif" font-weight="bold" font-size="18">Z</text>
+        <text x="322" y="1318" fill="#bae6fd" font-family="sans-serif" font-weight="bold" font-size="22">z</text>
+        <text x="340" y="1306" fill="#ffffff" font-family="sans-serif" font-weight="bold" font-size="15">z</text>
+      </g><g id="r8_c3">
+        <ellipse cx="448" cy="1384" rx="48" ry="20" fill="rgba(0,0,0,0.35)"/>
+        <g transform="translate(448, 1376) rotate(-26)">
+          <!-- Horizontal Torso & Legs -->
+          <rect x="-38" y="-12" width="44" height="24" rx="8" fill="#059669" stroke="#0f172a" stroke-width="2"/>
+          <rect x="4" y="-10" width="34" height="20" rx="6" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+          <!-- Sleeping Head on Pillow -->
+          <circle cx="-46" cy="-2" r="17" fill="#fed7aa" stroke="#0f172a" stroke-width="2"/>
+          <path d="M-62,-6 C-62,-22 -30,-22 -30,-6 Z" fill="#475569" stroke="#0f172a" stroke-width="1.6"/>
+          <!-- Closed Peaceful Eyes -->
+          <path d="M-44,-4 Q-40,-1 -36,-4" fill="none" stroke="#0f172a" stroke-width="2"/>
+        </g>
+        <!-- Floating Zzz -->
+        <text x="430" y="1326" fill="#38bdf8" font-family="sans-serif" font-weight="bold" font-size="18">Z</text>
+        <text x="450" y="1312" fill="#bae6fd" font-family="sans-serif" font-weight="bold" font-size="22">z</text>
+        <text x="468" y="1300" fill="#ffffff" font-family="sans-serif" font-weight="bold" font-size="15">z</text>
+      </g><g id="r8_c4">
+        <ellipse cx="576" cy="1420" rx="26" ry="11" fill="rgba(236,72,153,0.4)"/>
+        <rect x="562" y="1376" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <rect x="578" y="1376" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <path d="M558,1338 L594,1338 L596,1380 L556,1380 Z" fill="#059669" stroke="#f472b6" stroke-width="2.2"/>
+        <!-- Singing Head & Open Mouth -->
+        <circle cx="576" cy="1314" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <path d="M555,1311 C554,1286 598,1286 597,1311 Z" fill="#475569" stroke="#0f172a" stroke-width="1.8"/>
+        <ellipse cx="576" cy="1324" rx="5.5" ry="4.5" fill="#991b1b" stroke="#0f172a" stroke-width="1.5"/>
+        <!-- Raised Arm Holding Glowing Mic -->
+        <path d="M592,1346 L602,1330 L588,1324" fill="none" stroke="#059669" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+        <rect x="582" y="1318" width="6" height="14" rx="2" fill="#e2e8f0" stroke="#0f172a" stroke-width="1.5"/>
+        <circle cx="585" cy="1315" r="6" fill="#22d3ee" stroke="#ffffff" stroke-width="1.5"/>
+        <!-- Musical Notes -->
+        <text x="534" y="1304" fill="#f472b6" font-family="sans-serif" font-weight="bold" font-size="22">♪</text>
+        <text x="604" y="1298" fill="#38bdf8" font-family="sans-serif" font-weight="bold" font-size="20">♫</text>
+      </g><g id="r8_c5">
+        <ellipse cx="704" cy="1420" rx="26" ry="11" fill="rgba(236,72,153,0.4)"/>
+        <rect x="690" y="1376" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <rect x="706" y="1376" width="12" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <path d="M686,1334 L722,1334 L724,1380 L684,1380 Z" fill="#059669" stroke="#f472b6" stroke-width="2.2"/>
+        <!-- Singing Head & Open Mouth -->
+        <circle cx="704" cy="1310" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <path d="M683,1307 C682,1282 726,1282 725,1307 Z" fill="#475569" stroke="#0f172a" stroke-width="1.8"/>
+        <ellipse cx="704" cy="1320" rx="5.5" ry="4.5" fill="#991b1b" stroke="#0f172a" stroke-width="1.5"/>
+        <!-- Raised Arm Holding Glowing Mic -->
+        <path d="M720,1342 L730,1326 L716,1320" fill="none" stroke="#059669" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+        <rect x="710" y="1314" width="6" height="14" rx="2" fill="#e2e8f0" stroke="#0f172a" stroke-width="1.5"/>
+        <circle cx="713" cy="1311" r="6" fill="#22d3ee" stroke="#ffffff" stroke-width="1.5"/>
+        <!-- Musical Notes -->
+        <text x="662" y="1300" fill="#f472b6" font-family="sans-serif" font-weight="bold" font-size="22">♪</text>
+        <text x="732" y="1302" fill="#38bdf8" font-family="sans-serif" font-weight="bold" font-size="20">♫</text>
+      </g><g id="r8_c6">
+        <ellipse cx="832" cy="1420" rx="26" ry="11" fill="rgba(56,189,248,0.45)"/>
+        <rect x="819" y="1376" width="11" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <rect x="834" y="1376" width="11" height="32" rx="5" fill="#065f46" stroke="#0f172a" stroke-width="2"/>
+        <path d="M814,1338 L850,1338 L852,1380 L812,1380 Z" fill="#059669" stroke="#38bdf8" stroke-width="2.2"/>
+        <circle cx="832" cy="1314" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <path d="M811,1311 C810,1286 854,1286 853,1311 Z" fill="#475569" stroke="#0f172a" stroke-width="1.8"/>
+        <!-- Sonic Mist Rings & Droplets -->
+        <ellipse cx="832" cy="1348" rx="34" ry="12" fill="none" stroke="#38bdf8" stroke-width="3" stroke-dasharray="6 4"/>
+        <ellipse cx="832" cy="1372" rx="34" ry="12" fill="none" stroke="#22d3ee" stroke-width="3" stroke-dasharray="6 4"/>
+        <circle cx="806" cy="1301" r="3.5" fill="#38bdf8"/>
+        <circle cx="860" cy="1306" r="4" fill="#22d3ee"/>
+        <circle cx="832" cy="1284" r="3.5" fill="#bae6fd"/>
+      </g><g id="r8_c7">
+        <ellipse cx="960" cy="1418" rx="24" ry="10" fill="rgba(0,0,0,0.38)"/>
+        <!-- Bent Seated Legs -->
+        <path d="M950,1372 L938,1386 L938,1406" fill="none" stroke="#065f46" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M970,1372 L958,1386 L958,1406" fill="none" stroke="#065f46" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M943,1334 L977,1334 L978,1374 L942,1374 Z" fill="#059669" stroke="#0f172a" stroke-width="2.2"/>
+        <circle cx="960" cy="1310" r="21" fill="#fed7aa" stroke="#0f172a" stroke-width="2.2"/>
+        <path d="M939,1307 C938,1282 982,1282 981,1307 Z" fill="#475569" stroke="#0f172a" stroke-width="1.8"/>
+        <circle cx="954" cy="1310" r="2.6" fill="#0f172a"/>
+        <circle cx="966" cy="1310" r="2.6" fill="#0f172a"/>
+      </g>
+  </svg>
