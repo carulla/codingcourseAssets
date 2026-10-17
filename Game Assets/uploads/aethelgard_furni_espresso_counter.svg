@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 280" width="380" height="280">
+    <defs>
+      <linearGradient id="walnut" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#b45309"/>
+        <stop offset="50%" stop-color="#78350f"/>
+        <stop offset="100%" stop-color="#451a03"/>
+      </linearGradient>
+      <linearGradient id="marbleTop" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0%" stop-color="#fef3c7"/>
+        <stop offset="50%" stop-color="#f8fafc"/>
+        <stop offset="100%" stop-color="#cbd5e1"/>
+      </linearGradient>
+    </defs>
+    <ellipse cx="190" cy="224" rx="135" ry="50" fill="rgba(0,0,0,0.42)"/>
+    <!-- Isometric Bar Base -->
+    <polygon points="48,148 212,230 212,268 48,186" fill="url(#walnut)" stroke="#292524" stroke-width="2.5"/>
+    <polygon points="332,170 212,230 212,268 332,208" fill="#451a03" stroke="#292524" stroke-width="2.5"/>
+    <!-- Brass Foot Rail -->
+    <line x1="56" y1="184" x2="206" y2="259" stroke="#fbbf24" stroke-width="4" stroke-linecap="round"/>
+    <!-- Marble Countertop -->
+    <polygon points="168,88 332,170 212,230 48,148" fill="url(#marbleTop)" stroke="#d97706" stroke-width="2.5"/>
+    <!-- Chrome Espresso Machine Tower -->
+    <polygon points="130,56 184,83 184,132 130,105" fill="#cbd5e1" stroke="#334155" stroke-width="2"/>
+    <polygon points="184,83 212,69 212,118 184,132" fill="#64748b" stroke="#334155" stroke-width="2"/>
+    <polygon points="158,42 212,69 184,83 130,56" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+    <!-- Glowing Pressure Gauges -->
+    <circle cx="152" cy="84" r="6" fill="#38bdf8" stroke="#0f172a" stroke-width="1.5"/>
+    <circle cx="170" cy="93" r="6" fill="#f59e0b" stroke="#0f172a" stroke-width="1.5"/>
+    <!-- Glass Pastry Display Case -->
+    <polygon points="216,118 286,153 256,168 186,133" fill="rgba(186,230,253,0.55)" stroke="#f8fafc" stroke-width="2"/>
+    <!-- Coffee Cups -->
+    <ellipse cx="116" cy="138" rx="8" ry="6" fill="#ffffff" stroke="#78350f" stroke-width="2"/>
+    <ellipse cx="136" cy="148" rx="8" ry="6" fill="#ffffff" stroke="#78350f" stroke-width="2"/>
+  </svg>
