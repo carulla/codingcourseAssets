@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 280" width="380" height="280">
+    <defs>
+      <linearGradient id="neonBar" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#86198f"/>
+        <stop offset="50%" stop-color="#4a044e"/>
+        <stop offset="100%" stop-color="#1e1b4b"/>
+      </linearGradient>
+    </defs>
+    <ellipse cx="190" cy="224" rx="135" ry="50" fill="rgba(0,0,0,0.45)"/>
+    <polygon points="48,148 212,230 212,268 48,186" fill="url(#neonBar)" stroke="#f472b6" stroke-width="2.5"/>
+    <polygon points="332,170 212,230 212,268 332,208" fill="#2e1065" stroke="#c084fc" stroke-width="2.5"/>
+    <polygon points="168,88 332,170 212,230 48,148" fill="#0f172a" stroke="#e879f9" stroke-width="3"/>
+    <!-- Neon Under-Counter Strips -->
+    <line x1="60" y1="168" x2="202" y2="239" stroke="#22d3ee" stroke-width="3.5" stroke-linecap="round"/>
+    <!-- Glowing Synth-Drinks -->
+    <rect x="145" y="118" width="12" height="22" rx="4" fill="#ec4899" stroke="#ffffff" stroke-width="1.5"/>
+    <rect x="172" y="130" width="12" height="22" rx="4" fill="#38bdf8" stroke="#ffffff" stroke-width="1.5"/>
+    <rect x="200" y="144" width="12" height="22" rx="4" fill="#a855f7" stroke="#ffffff" stroke-width="1.5"/>
+  </svg>
