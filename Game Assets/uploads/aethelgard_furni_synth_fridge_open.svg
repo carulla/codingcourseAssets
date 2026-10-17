@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 300" width="340" height="300">
+  <ellipse cx="170" cy="242" rx="115" ry="44" fill="rgba(0,0,0,0.45)"/>
+  <!-- Isometric Kitchen Counter & Smart Fridge Cabinet -->
+  <polygon points="64,152 192,216 192,264 64,200" fill="#0369a1" stroke="#38bdf8" stroke-width="2.5"/>
+  <polygon points="284,170 192,216 192,264 284,218" fill="#0f172a" stroke="#38bdf8" stroke-width="2.5"/>
+  <polygon points="156,106 284,170 192,216 64,152" fill="#e2e8f0" stroke="#38bdf8" stroke-width="2.5"/>
+  <!-- Tall Smart Fridge Tower with Illuminated Open Interior -->
+  <polygon points="74,42 154,82 154,196 74,156" fill="#0284c7" stroke="#bae6fd" stroke-width="2.5"/>
+  <polygon points="84,56 146,87 146,186 84,155" fill="#ecfeff" stroke="#22d3ee" stroke-width="2"/>
+  <!-- Glowing Shelves & Nutrient Bottles Inside Open Fridge -->
+  <line x1="86" y1="95" x2="144" y2="124" stroke="#0284c7" stroke-width="3"/>
+  <line x1="86" y1="128" x2="144" y2="157" stroke="#0284c7" stroke-width="3"/>
+  <rect x="98" y="76" width="10" height="18" rx="3" fill="#10b981"/>
+  <rect x="116" y="84" width="10" height="18" rx="3" fill="#f59e0b"/>
+  <rect x="104" y="110" width="12" height="18" rx="3" fill="#ec4899"/>
+  <!-- Swung-Open Insulated Glass Fridge Door -->
+  <polygon points="146,87 206,62 206,162 146,186" fill="rgba(56,189,248,0.52)" stroke="#ffffff" stroke-width="2.5"/>
+  <!-- Cold Vapor Mist Particles -->
+  <circle cx="132" cy="142" r="14" fill="rgba(224,242,254,0.55)"/>
+  <circle cx="152" cy="156" r="18" fill="rgba(224,242,254,0.4)"/>
+</svg>
