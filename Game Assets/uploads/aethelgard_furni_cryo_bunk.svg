@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 300" width="360" height="300">
+    <defs>
+      <linearGradient id="duvet" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#6366f1"/>
+        <stop offset="55%" stop-color="#4f46e5"/>
+        <stop offset="100%" stop-color="#312e81"/>
+      </linearGradient>
+      <linearGradient id="woodFrame" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0%" stop-color="#78350f"/>
+        <stop offset="50%" stop-color="#92400e"/>
+        <stop offset="100%" stop-color="#451a03"/>
+      </linearGradient>
+    </defs>
+    <!-- Floor Shadow -->
+    <polygon points="180,100 330,175 180,265 30,190" fill="rgba(0,0,0,0.42)"/>
+    <!-- Headboard Canopy -->
+    <polygon points="48,155 155,95 155,35 48,95" fill="#1e293b" stroke="#475569" stroke-width="3"/>
+    <polygon points="58,142 145,93 145,48 58,97" fill="#0f172a" stroke="#38bdf8" stroke-width="1.5"/>
+    <!-- Warm Reading Light Strip -->
+    <line x1="68" y1="98" x2="136" y2="60" stroke="#fbbf24" stroke-width="4" stroke-linecap="round"/>
+    <!-- Isometric Bed Frame Left & Right -->
+    <polygon points="48,155 195,232 195,260 48,183" fill="url(#woodFrame)" stroke="#1e293b" stroke-width="2.5"/>
+    <polygon points="312,172 195,232 195,260 312,200" fill="#451a03" stroke="#1e293b" stroke-width="2.5"/>
+    <!-- Mattress & Quilted Comforter -->
+    <polygon points="155,95 312,172 195,232 48,155" fill="url(#duvet)" stroke="#e0e7ff" stroke-width="2"/>
+    <!-- Folded Sheet Top -->
+    <polygon points="155,95 205,120 98,180 48,155" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1.5"/>
+    <!-- Quilted Seam Lines -->
+    <line x1="135" y1="201" x2="245" y2="140" stroke="rgba(255,255,255,0.22)" stroke-width="2"/>
+    <line x1="165" y1="216" x2="275" y2="155" stroke="rgba(255,255,255,0.22)" stroke-width="2"/>
+    <!-- Two Plush Pillows -->
+    <ellipse cx="105" cy="142" rx="26" ry="14" transform="rotate(-28 105 142)" fill="#ffffff" stroke="#94a3b8" stroke-width="2"/>
+    <ellipse cx="148" cy="118" rx="26" ry="14" transform="rotate(-28 148 118)" fill="#f8fafc" stroke="#94a3b8" stroke-width="2"/>
+    <!-- Neon Trim Accent -->
+    <line x1="52" y1="176" x2="192" y2="250" stroke="#38bdf8" stroke-width="3" stroke-linecap="round"/>
+  </svg>
