@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 320" width="280" height="320">
+    <defs>
+      <linearGradient id="steelFrame" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#94a3b8"/>
+        <stop offset="50%" stop-color="#475569"/>
+        <stop offset="100%" stop-color="#1e293b"/>
+      </linearGradient>
+      <linearGradient id="portalGlow" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0%" stop-color="#10b981"/>
+        <stop offset="50%" stop-color="#059669"/>
+        <stop offset="100%" stop-color="#064e3b"/>
+      </linearGradient>
+    </defs>
+    <ellipse cx="140" cy="276" rx="85" ry="32" fill="rgba(0,0,0,0.42)"/>
+    <!-- Heavy Isometric Blast Frame -->
+    <polygon points="64,68 216,144 216,292 64,216" fill="url(#steelFrame)" stroke="#0f172a" stroke-width="3"/>
+    <polygon points="82,56 234,132 216,144 64,68" fill="#cbd5e1" stroke="#0f172a" stroke-width="2.5"/>
+    <polygon points="234,132 234,280 216,292 216,144" fill="#334155" stroke="#0f172a" stroke-width="2.5"/>
+    <!-- Recessed Inner Airlock Doors -->
+    <polygon points="82,92 198,150 198,278 82,220" fill="url(#portalGlow)" stroke="#34d399" stroke-width="2.5"/>
+    <!-- Center Seam & Hydraulic Locks -->
+    <line x1="140" y1="121" x2="140" y2="249" stroke="#064e3b" stroke-width="4"/>
+    <!-- Reinforced Viewport Window -->
+    <polygon points="104,126 176,162 176,202 104,166" fill="#a7f3d0" opacity="0.7" stroke="#ffffff" stroke-width="2"/>
+    <!-- Status Beacon -->
+    <circle cx="140" cy="96" r="7" fill="#34d399" stroke="#ffffff" stroke-width="1.5"/>
+  </svg>
