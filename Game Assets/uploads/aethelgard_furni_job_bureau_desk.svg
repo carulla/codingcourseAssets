@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 260" width="320" height="260">
+    <ellipse cx="160" cy="214" rx="105" ry="42" fill="rgba(0,0,0,0.4)"/>
+    <!-- Executive Curved Desk Front -->
+    <polygon points="56,142 178,203 178,244 56,183" fill="#0369a1" stroke="#38bdf8" stroke-width="2.5"/>
+    <polygon points="274,155 178,203 178,244 274,196" fill="#075985" stroke="#38bdf8" stroke-width="2.5"/>
+    <polygon points="152,94 274,155 178,203 56,142" fill="#1e293b" stroke="#7dd3fc" stroke-width="2.5"/>
+    <!-- Gold Career Bureau Emblem -->
+    <polygon points="108,180 128,190 128,210 108,200" fill="#fbbf24" stroke="#ffffff" stroke-width="1.5"/>
+    <!-- Holographic Nameplate & Terminal -->
+    <polygon points="140,68 210,103 210,145 140,110" fill="rgba(56,189,248,0.65)" stroke="#ffffff" stroke-width="2"/>
+    <line x1="152" y1="88" x2="196" y2="110" stroke="#fde047" stroke-width="3"/>
+    <line x1="152" y1="102" x2="184" y2="118" stroke="#ffffff" stroke-width="2.5"/>
+  </svg>
