@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 240" width="340" height="240">
+    <defs>
+      <linearGradient id="velvet" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0%" stop-color="#e11d48"/>
+        <stop offset="60%" stop-color="#9f1239"/>
+        <stop offset="100%" stop-color="#4c0519"/>
+      </linearGradient>
+    </defs>
+    <ellipse cx="170" cy="196" rx="120" ry="40" fill="rgba(0,0,0,0.42)"/>
+    <!-- 3 Connected Plush Isometric Cinema Seats -->
+    <!-- Seat 1 -->
+    <polygon points="64,92 124,122 124,178 64,148" fill="url(#velvet)" stroke="#fda4af" stroke-width="2"/>
+    <polygon points="44,148 104,178 124,168 64,138" fill="#be123c" stroke="#fda4af" stroke-width="2"/>
+    <!-- Seat 2 -->
+    <polygon points="128,124 188,154 188,210 128,180" fill="url(#velvet)" stroke="#fda4af" stroke-width="2"/>
+    <polygon points="108,180 168,210 188,200 128,170" fill="#be123c" stroke="#fda4af" stroke-width="2"/>
+    <!-- Seat 3 -->
+    <polygon points="192,156 252,186 252,234 192,204" fill="url(#velvet)" stroke="#fda4af" stroke-width="2"/>
+    <polygon points="172,204 232,234 252,224 192,194" fill="#be123c" stroke="#fda4af" stroke-width="2"/>
+    <!-- Gold Cupholders -->
+    <circle cx="58" cy="148" r="5" fill="#fbbf24"/>
+    <circle cx="122" cy="180" r="5" fill="#fbbf24"/>
+    <circle cx="186" cy="208" r="5" fill="#fbbf24"/>
+    <circle cx="250" cy="230" r="5" fill="#fbbf24"/>
+  </svg>
