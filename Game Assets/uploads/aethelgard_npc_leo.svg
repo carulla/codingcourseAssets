@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 240" width="180" height="240">
+    <ellipse cx="90" cy="212" rx="36" ry="15" fill="rgba(0,0,0,0.4)"/>
+    <!-- Legs & Boots -->
+    <rect x="73" y="158" width="13" height="48" rx="6" fill="#1e293b" stroke="#0f172a" stroke-width="2"/>
+    <rect x="94" y="158" width="13" height="48" rx="6" fill="#1e293b" stroke="#0f172a" stroke-width="2"/>
+    <!-- Emerald Curator Coat -->
+    <path d="M60,96 C60,86 120,86 120,96 L126,166 L54,166 Z" fill="#059669" stroke="#34d399" stroke-width="2.5"/>
+    <polygon points="82,92 98,92 94,162 86,162" fill="#ecfdf5"/>
+    <!-- Film Archive Badge -->
+    <circle cx="106" cy="116" r="6" fill="#fbbf24" stroke="#ffffff" stroke-width="1.5"/>
+    <!-- Head & Warm Face -->
+    <circle cx="90" cy="64" r="24" fill="#fed7aa" stroke="#431407" stroke-width="2"/>
+    <!-- Styled Silver-Brown Hair -->
+    <path d="M66,58 C66,34 114,34 114,58 C104,46 76,46 66,58 Z" fill="#475569" stroke="#1e293b" stroke-width="2"/>
+    <!-- Round Smart-Glasses -->
+    <circle cx="81" cy="64" r="7" fill="rgba(56,189,248,0.35)" stroke="#fbbf24" stroke-width="2"/>
+    <circle cx="99" cy="64" r="7" fill="rgba(56,189,248,0.35)" stroke="#fbbf24" stroke-width="2"/>
+    <line x1="88" y1="64" x2="92" y2="64" stroke="#fbbf24" stroke-width="2"/>
+    <path d="M83,76 Q90,82 97,76" fill="none" stroke="#431407" stroke-width="2" stroke-linecap="round"/>
+  </svg>
