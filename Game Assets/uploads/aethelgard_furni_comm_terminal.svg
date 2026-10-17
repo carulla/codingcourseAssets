@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 280" width="320" height="280">
+    <defs>
+      <linearGradient id="holoScreen" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="rgba(56,189,248,0.85)"/>
+        <stop offset="50%" stop-color="rgba(14,165,233,0.65)"/>
+        <stop offset="100%" stop-color="rgba(236,72,153,0.75)"/>
+      </linearGradient>
+      <linearGradient id="deskTop" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0%" stop-color="#334155"/>
+        <stop offset="100%" stop-color="#1e293b"/>
+      </linearGradient>
+    </defs>
+    <ellipse cx="160" cy="228" rx="95" ry="42" fill="rgba(0,0,0,0.4)"/>
+    <!-- Desk Legs -->
+    <polygon points="72,160 88,168 88,236 72,228" fill="#475569" stroke="#0f172a" stroke-width="2"/>
+    <polygon points="236,160 252,168 252,236 236,228" fill="#334155" stroke="#0f172a" stroke-width="2"/>
+    <polygon points="154,200 170,208 170,264 154,256" fill="#1e293b" stroke="#0f172a" stroke-width="2"/>
+    <!-- Isometric Desk Surface -->
+    <polygon points="160,116 264,168 160,220 56,168" fill="url(#deskTop)" stroke="#38bdf8" stroke-width="2.5"/>
+    <polygon points="56,168 160,220 160,232 56,180" fill="#1e293b" stroke="#0f172a" stroke-width="2"/>
+    <polygon points="264,168 160,220 160,232 264,180" fill="#0f172a" stroke="#0f172a" stroke-width="2"/>
+    <!-- Glowing Keyboard Pad -->
+    <polygon points="150,164 196,187 176,199 130,176" fill="#0284c7" stroke="#bae6fd" stroke-width="1.5"/>
+    <!-- Curved Dual Holo-Monitors -->
+    <polygon points="92,62 174,102 174,162 92,122" fill="url(#holoScreen)" stroke="#e0f2fe" stroke-width="2.5"/>
+    <polygon points="178,102 238,76 238,136 178,162" fill="url(#holoScreen)" stroke="#f472b6" stroke-width="2.5"/>
+    <!-- UI Chart Graphics on Screen -->
+    <line x1="106" y1="88" x2="158" y2="114" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+    <line x1="106" y1="104" x2="144" y2="123" stroke="#fde047" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="208" cy="118" r="14" fill="none" stroke="#ffffff" stroke-width="2.5"/>
+  </svg>
